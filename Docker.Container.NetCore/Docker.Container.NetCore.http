@@ -1,0 +1,6 @@
+@Docker.Container.NetCore_HostAddress = http://localhost:5094
+
+GET {{Docker.Container.NetCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Docker.Container.NetCore.props" />
+</Project>

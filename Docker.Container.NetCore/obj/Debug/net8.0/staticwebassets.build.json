@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7aAEHA+sRtW8rGAEZMKZ312uU98ssrosv0L36nRzLSg=",
+  "Source": "Docker.Container.NetCore",
+  "BasePath": "_content/Docker.Container.NetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
