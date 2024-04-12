@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Docker.Container.NetCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+141a5eda817080fb84486a7d4720fd69881ec8b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86e8058fa41756f0beb88ac148f8ee142ca4016a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Docker.Container.NetCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Docker.Container.NetCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
